@@ -33,7 +33,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/deployus3r/deployus3r/output/snake.svg" alt="Snake animation" />
-
-###
